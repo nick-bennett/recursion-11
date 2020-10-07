@@ -5,7 +5,7 @@
 /.idea/httpRequests/
 /.idea/shelf/
 /.idea/dataSources.local.xml
-/.idea/vcs.xml
+#/.idea/vcs.xml
 /.idea/workspace.xml
 
 .floo
