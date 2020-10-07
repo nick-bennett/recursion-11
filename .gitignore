@@ -1,2 +1,12 @@
 # Project exclude paths
 /out/
+# /.idea/codeStyles/
+/.idea/dataSources/
+/.idea/httpRequests/
+/.idea/shelf/
+/.idea/dataSources.local.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+
+.floo
+.flooignore
