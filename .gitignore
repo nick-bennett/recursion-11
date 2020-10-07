@@ -1,6 +1,6 @@
 # Project exclude paths
 /out/
-# /.idea/codeStyles/
+/.idea/codeStyles/
 /.idea/dataSources/
 /.idea/httpRequests/
 /.idea/shelf/
